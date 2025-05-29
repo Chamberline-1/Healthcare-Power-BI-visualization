@@ -1,5 +1,8 @@
 # Healthcare-Power-BI-visualization
 
+![](https://github.com/Chamberline-1/Healthcare-Power-BI-visualization/blob/main/power%20bi%20image.jpg)
+
+
 # Introduction
 The healthcare sector generates vast volumes of data daily, particularly in relation to patient admissions, treatment patterns, and resource allocation. One of the most valuable applications of this data is in understanding patient flow, specifically the distinction between inpatients and outpatients, to support operational efficiency, planning, and quality of care.
 
@@ -29,8 +32,8 @@ By bridging raw data with visual storytelling, this project empowers healthcare 
 # Skills applied
 1. Data cleaning and transformation
 2. Data modelling using DAX
-3. Data analsysi
-4. Data visualization
+3. Data analysis
+4. Data visualization and dashboard design
 
 ![](https://github.com/Chamberline-1/Healthcare-Power-BI-visualization/blob/main/power%20healthcare%20dasboard.png)
 
