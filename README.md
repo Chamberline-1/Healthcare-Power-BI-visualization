@@ -42,7 +42,6 @@ The 18+ months wait time band has the highest volume, predominantly affecting th
 3. Specialty Breakdown
 Ophthalmology, Paediatric Orthopaedic, and Paediatric Respiratory Medicine have notable average wait times of approximately 34–36 days. The blank category shows a significantly higher average wait time of 80.21 days, suggesting it may be an outlier or aggregated category. These specialties may be experiencing resource constraints or higher demand, and the blank category warrants further investigation for data accuracy or hidden backlog.
 
-## Additional Observation
 Outpatient and Day Case wait lists showed a steady increase from 2018 to 2021, with notable spikes during 2020–2021.
 Inpatient wait lists remained relatively stable over the same period.
 The COVID-19 pandemic likely contributed to rising delays in outpatient and day case services due to service disruptions and backlog accumulation.
