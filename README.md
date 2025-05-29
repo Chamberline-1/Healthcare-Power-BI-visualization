@@ -32,6 +32,9 @@ By bridging raw data with visual storytelling, this project empowers healthcare 
 3. Data analsysi
 4. Data visualization
 
+![](https://github.com/Chamberline-1/Healthcare-Power-BI-visualization/blob/main/power%20healthcare%20dasboard.png)
+
+
 # Analysis
 1. Avg/Med wait list by case type
 From the dashboard, it shows that outpatient cases dominates the wait list and inpatients and day cases have lower shares. This means that the outpatients faces more challenging scheduling pressures.
